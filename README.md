@@ -54,7 +54,7 @@ I am an aspiring IT professional and tech enthusiast with a strong foundation in
 - **Phone**: +91 90 33 91 73 27
 - **Email**: darshitambalia.19@gmail.com
 - **GitHub**: [DarshitAmbalia19](https://github.com/DarshitAmbalia19)
-- **portfolio**: [Darshit-Ambalia]([https://github.com/DarshitAmbalia19](https://darshitambalia19.github.io/Darshit_Repository/))
+- **portfolio**: [Darshit-Ambalia](https://darshitambalia19.github.io/Darshit_Repository/)
 
 ## How to Run the Website
 1. Clone the repository:
